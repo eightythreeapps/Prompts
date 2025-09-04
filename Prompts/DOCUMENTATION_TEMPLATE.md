@@ -7,10 +7,14 @@ Your output must be in **Markdown** and include the following sections:
 - Provide a concise summary of what this feature does.  
 - Explain the user value and business context in plain language.  
 
+## Dependencies
+- List any new dependencies (librarys, REST services etc)
+
 ## Technical Details
 - Describe the main components (APIs, services, modules, database schema, etc.).  
 - List any key dependencies or external services.  
-- Include configuration or environment variables if relevant.  
+- Include configuration or environment variables if relevant.
+- Highlight any component or library upgrades performed as part of this work.
 
 ## Architecture Diagram
 Generate a **Mermaid diagram** to illustrate the architecture.  
