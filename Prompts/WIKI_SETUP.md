@@ -134,8 +134,9 @@ function generateSessionTemplate(sessionTitle, objective = '') {
   const template = `# Development Session: ${today} - ${sessionTitle}
 
 **Date**: ${today}  
-**Duration**: [Duration]  
-**Developer**: [Your name]  
+**Duration**: [Duration - how long did this take to develop]  
+**Developer**: [Your name]
+**Jira ref**: [Jira refernce or URL if available] 
 
 ## 📋 Session Overview
 
