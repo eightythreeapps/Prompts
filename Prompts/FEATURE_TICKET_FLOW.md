@@ -9,7 +9,7 @@ Follow this sequence whenever asked to work on a Jira ticket:
    - If the description is unclear, **ask the user for clarity before proceeding**.  
 
 2. **Branching**  
-   - Create and checkout a new Git branch for the task.  
+   - Create and checkout a new Git branch from **main** for the task.  
    - Use the naming convention: `feature/ABC-123-short-description`.  
 
 3. **Development Session**  
