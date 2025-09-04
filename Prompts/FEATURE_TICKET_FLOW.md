@@ -32,7 +32,12 @@ Follow this sequence whenever asked to work on a Jira ticket:
      - A **link to the Jira ticket**.  
 
 6. **Jira Workflow**  
-   - Move the Jira ticket status to **"Ready for Peer Review"** once the PR is raised.  
+   - Move the Jira ticket status to **"Ready for Peer Review"** once the PR is raised.
+   - To move tge Jira ticket to "Ready for Peer Review" we need to set the fields: Dev Toggle, Fix
+  versions and Time Spent. If we cannot set these, give the values in the document so the developer can update manually.
+
+7. **Push the documentation**
+   - Push the docs so they are ready for review. 
 
 ---
 
